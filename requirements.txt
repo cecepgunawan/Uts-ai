@@ -1,0 +1,5 @@
+Flask
+textblob
+gunicorn
+requests
+selenium
